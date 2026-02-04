@@ -1,5 +1,8 @@
-## License
+License
+This project is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-© 2026 Kai Fan Xie  
-Licensed under CC BY 4.0  
-https://creativecommons.org/licenses/by/4.0/
+Attribution required
+Non-commercial use only
+Derivatives must be released under the same license
+See the LICENSE file for details.
